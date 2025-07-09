@@ -2,6 +2,10 @@
 
 This repository contains an interactive Power BI dashboard developed for visualizing and analyzing **Madhav E-Commerce** sales data. The dashboard provides insights into total revenue, profit, customer behavior, sales trends, and product performance.
 
+![proj_3](https://github.com/user-attachments/assets/da0ca105-76e7-46ed-8390-b7f2e4a4b680)
+
+
+
 ---
 
 ## 📌 Project Summary
